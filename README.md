@@ -9,7 +9,7 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-Visio2010-va-kich-hoat/assets/82578024/6b5f85a7-4a58-47c6-a38c-4bdfae1e4e10)
 
 ## KÍCH HOẠT VISIO PREMIUM 2010 ##
-    - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/ActivateAIOTools
+  - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/ActivateAIOTools
 
 ## DEMO: ## 
  - ![image](https://github.com/BsNgChiThanh/Cai-Visio2010-va-kich-hoat/assets/82578024/32568038-3f68-401c-bad7-e8b8494a0d9d)
