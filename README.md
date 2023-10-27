@@ -1,6 +1,6 @@
 # CÀI ĐẶT VISIO 2010 VÀ KÍCH HOẠT VĨNH VIỄN #
 ## CÀI ĐẶT VISIO PREMIUM 2010 ##
-  - Download file cài đặt VISIO PRO 2010 [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaJlTXbzK7dHuBQPk9g4hQABmj0z79s5Ye0HcxW4BuhNag?e=soqUFT) hoặc [tại đây](https://drive.google.com/file/d/1W6DFdrTxbBhGJKAQaHVaVBnJlNW9nruy/view) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - Download source [VISIO PRO 2010](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaJlTXbzK7dHuBQPk9g4hQABmj0z79s5Ye0HcxW4BuhNag?e=soqUFT):
   - https://drive.massgrave.dev/SW_DVD5_Visio_Premium_2010w_SP1_W32_English_Std_Pro_Prem_MLF_X17-75851.ISO
   - https://drive.massgrave.dev/SW_DVD5_Visio_Premium_2010w_SP1_64Bit_English_Std_Pro_Prem_MLF_X17-75853.ISO
   - Cài đặt:
